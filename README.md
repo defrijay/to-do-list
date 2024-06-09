@@ -1,7 +1,21 @@
 # Todo List Restful API
-
-## Overview
 The Todo List Restful API provides a simple interface for managing a list of todo items. Users can create, read, update, and delete todo entries.
+
+## Daftar Isi
+- [Page Documentation](#page-documentation)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Security](#security)
+- [License](#license)
+- [Contact](#contact)
+
+## Page Documentation
+##### 1. Initial documentation
+![Page Documentation](Documentation.png)
+
+##### 2. Endpoint dan Schema API
+![Page Documentation](Documentation2.png)
 
 ## Features
 - Retrieve all todo lists
@@ -12,14 +26,13 @@ The Todo List Restful API provides a simple interface for managing a list of tod
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-list-api.git
+   git clone https://github.com/defrijay/to-do-list.git
 2. Navigate to the project directory:
    `cd todo-list-api`
-3. Install extensio OpenAPI in Vscode
+3. Install extension OpenAPI in Vscode
 4. Open With OpenAPI
    
 # Usage
-
 The API is documented using OpenAPI 3.0.3 specification. Below is a summary of the available endpoints.
 
 ## Get All Todo Lists
